@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Beer Cafe</string>
+    <string name="m_search">Search</string>
+    <string name="m_cart">Cart</string>
+    <string name="m_filter">Filter</string>
+</resources>
